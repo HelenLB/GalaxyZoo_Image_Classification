@@ -6,12 +6,14 @@ This repository contains all the trial and error versions for the Rlag1998/image
 Galaxy classification is a complex system. In basic terms there are 4 different categories: ellipticals, spirals, lenticulars, and irregulars. The final nomenclature and classification of a galaxy depends on the brightness of it, the existance of the bulge, number of arms, whether there is structure or is it smooth, and its shape. In this project, we do not delve too deep into the specifics of it but it is important to understand main properties of the system. Figure 1, Hubble-De Vaucouleurs diagram, describes the main way galaxies are usually labelled.
 
 ![image](https://user-images.githubusercontent.com/119504274/225613215-45396bf5-8720-4508-84b2-4ce3debceb96.png)
-Figure 1: The diagram may suggest progression from elliptical galaxies to spiral galaxies, however, the reality of galaxy evoltion is far more complex. (Image credit: Antonio Ciccolella/M. De Leo)
+
+[Figure 1: The diagram may suggest progression from elliptical galaxies to spiral galaxies, however, the reality of galaxy evoltion is far more complex. (Image credit: Antonio Ciccolella/M. De Leo)]
 
 The Galaxy Zoo astronomy project (https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/) collects data by inviting individuals to answer questions in a decision tree based on an astronomical image of a galaxy. The questionnaire in the form of a decision tree can be seen below (Figure 2). Humans select the attributes they can see in the image and their answers are aggregated, along with some error analysis, to find the final morphological classification of a galaxy.
 
 ![image](https://user-images.githubusercontent.com/119504274/225607939-fa9d1b0f-ae32-41ac-bac4-0189e7a53730.png)
-Figure 2: The Galaxy Zoo 2 decision tree with 11 questions and 37 answers (Hart et al., 2016)
+
+[Figure 2: The Galaxy Zoo 2 decision tree with 11 questions and 37 answers (Hart et al., 2016)]
 
 In the dataset, there are following features:
 * The unique Galaxy ID
